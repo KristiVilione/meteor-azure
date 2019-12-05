@@ -18,6 +18,7 @@ To help you understand and extend this architecture, we have compiled a list of 
 - `Configure oplog <https://www.compose.com/articles/meteor-1-4-mongodb-and-compose-ready-to-oplog>`_
 - `mLab documentation <http://docs.mlab.com>`_
 - `Atlas documentation <https://docs.atlas.mongodb.com>`_
+- `ScaleGrid documentation <https://help.scalegrid.io/docs>`_
 
 *Internal*
 
